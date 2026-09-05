@@ -115,7 +115,7 @@ OpenAI's model pages describe the families and supported reasoning settings: [GP
 
 [Model facts and interpretation limits →](docs/models.md) · [Prompt, provenance, and method →](docs/challenge.md)
 
-## The challenge
+## The challenge (Read, the prompt)
 
 > Let’s try something fun. I want you to make me the best fully playable PC game you can with minimal input from me. I should be able to quickly play it locally without providing any game assets. You can write it in any language you want but I have to be able to run it from a batch file and you have to finish it in one shot. The genre, tone, and style are completely up to you. Are you up for the challenge?
 
