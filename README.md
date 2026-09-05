@@ -2,7 +2,7 @@
 
 ![One prompt. Two worlds. — GPT-6 Astra medium versus GPT-5.6 Sol high](assets/cover.svg)
 
-### What happens when you give two models the keys to the arcade?
+### What happens when you give Astra and Sol the same prompt?
 
 One open-ended game-making challenge. No supplied assets. Two playable answers.
 
@@ -96,6 +96,8 @@ Both models chose a dark, top-down arcade game built with HTML Canvas and synthe
 
 **What excites me the most is where these games could go with a human at the wheel**. I totally get that people want to keep machines out of their creative endeavors, but if we're being honest, there are very few original ideas when it comes to general narrative beats. Nearly all stories are some retelling of a far more ancient one. While I don't want people to hand over all creative license to models, I am beyond excited about what possibilities of having such a powerful tool will do for human creative expression. 
 
+**From a pure data science perspective, I think the similarities in game design (even titling) are showing us how impactful long term agent memory is**. I would be curious to see how anothe ruse with a completely different chat history might effect everything from title to genre. While this was more of a fun weekened project, I think there is A LOT more that could be done. Hoping someeone else out there picks up the challenge to really put these models to the test. 
+
 See the [detailed comparison and code references](docs/comparison.md), or [use the playtest scorecard](docs/playtest.md) to make your own judgment.
 
 ## What this says about the models
@@ -109,11 +111,11 @@ See the [detailed comparison and code references](docs/comparison.md), or [use t
 
 OpenAI's model pages describe the families and supported reasoning settings: [GPT-6 Astra](https://developers.openai.com/api/docs/models/gpt-6-astra) and [GPT-5.6 Sol](https://developers.openai.com/api/docs/models/gpt-5.6-sol). Checked September 5, 2026.
 
-**This is a two-build case study, not a controlled benchmark.** “Medium” and “high” are configuration labels, not equal compute budgets across different models. We do not have audited per-run cost, token counts, generation times, or equivalent environment records. We also do not claim that the supplied folders prove untouched first-turn outputs. The games are preserved as supplied for this comparison.
+**This is a two-build case study, not a controlled benchmark.** “Medium” and “high” are configuration labels, not equal compute budgets across different models. I do not have audited per-run cost, token counts, generation times, or equivalent environment records. The supplied folders are very close to untouched first-turn outputs. The games are preserved as supplied for this comparison. The one slight deviation is that in Last Light Lancer, I gave a follow up prompt to fix a bug with the generated sound effects. I did this before I had the thought to compare one prompt outputs. It's a small caveat, but a caveat nonetheless. 
 
 [Model facts and interpretation limits →](docs/models.md) · [Prompt, provenance, and method →](docs/challenge.md)
 
-## The challenge (Read, the prompt)
+## The challenge (prompt)
 
 > Let’s try something fun. I want you to make me the best fully playable PC game you can with minimal input from me. I should be able to quickly play it locally without providing any game assets. You can write it in any language you want but I have to be able to run it from a batch file and you have to finish it in one shot. The genre, tone, and style are completely up to you. Are you up for the challenge?
 
