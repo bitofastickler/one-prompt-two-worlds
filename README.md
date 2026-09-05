@@ -10,6 +10,8 @@ One open-ended game-making challenge. No supplied assets. Two playable answers.
 
 **Windows batch launchers · Runs offline in a desktop browser · No accounts or API keys**
 
+[![Verify exhibit](https://github.com/bitofastickler/one-prompt-two-worlds/actions/workflows/verify.yml/badge.svg)](https://github.com/bitofastickler/one-prompt-two-worlds/actions/workflows/verify.yml)
+
 </div>
 
 ---

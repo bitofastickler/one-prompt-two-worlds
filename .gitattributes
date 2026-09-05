@@ -2,7 +2,7 @@
 * text=auto eol=lf
 downloads/*.zip binary
 assets/*.png binary
-*.bat -text
+*.bat -text whitespace=cr-at-eol
 *.md text eol=lf
 *.py text eol=lf
 *.cjs text eol=lf
