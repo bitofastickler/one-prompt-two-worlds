@@ -1,10 +1,13 @@
-# Preserve captured game bytes, including original launcher line endings.
-games/** -text
+# Keep exhibit text portable and captured game bytes unchanged.
+* text=auto eol=lf
 downloads/*.zip binary
 assets/*.png binary
+*.bat -text
 *.md text eol=lf
 *.py text eol=lf
 *.cjs text eol=lf
 *.json text eol=lf
 *.svg text eol=lf
 *.yml text eol=lf
+# Last rule wins, including for original Markdown and batch launchers.
+games/** -text

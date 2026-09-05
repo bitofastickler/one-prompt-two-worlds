@@ -94,7 +94,7 @@ Both models chose a dark, top-down arcade game built with HTML Canvas and synthe
 
 **Sol put more of its design into movement through a system.** A larger world, obstacle collisions, a following camera, and a minimap support a player-directed route. Its upgrade economy works while combat continues. Its adaptive score is more involved than LASTLIGHT's music loop, giving this build a distinct technical strength.
 
-**The shared aesthetic is as interesting as the contrast.** Both independently selected small ships, glowing salvage, hostile darkness, and survival around a last signal. The differentiation lies more in structure and mechanics than in wildly different genre selection.
+**The shared aesthetic is as interesting as the contrast.** Both selected small ships, glowing salvage, hostile darkness, and survival around a last signal. The differentiation lies more in structure and mechanics than in wildly different genre selection.
 
 These are editorial interpretations of the preserved source, not universal rankings. See the [detailed comparison and code references](docs/comparison.md), or [use the playtest scorecard](docs/playtest.md) to make your own judgment.
 
