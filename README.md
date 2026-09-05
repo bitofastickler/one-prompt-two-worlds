@@ -90,15 +90,13 @@ Both models chose a dark, top-down arcade game built with HTML Canvas and synthe
 | How does the music work? | A repeating eight-note synth pattern and occasional bass tone | Layered chord/scale scheduling; tempo and instrumentation react to threat and extraction |
 | What brings me back? | Upgrade combinations, two difficulty settings, and a saved best score | Randomized layouts, route choices, and a saved fastest extraction |
 
-### Our reading of the two builds
+### My reading of the two builds (human perspective)
 
-**Astra put more of its design into a staged experience.** The lighthouse is simultaneously a visual landmark, a second health bar, and a reason to collect salvage. Intermissions provide a rhythm of relief and choice; the boss and written ending give that rhythm a destination. Its gentler mode, automatic targeting, and control reminders also make the first run easier to approach.
+**Astra made a more complete and playable game.** While Laslight Lancer is a tighter, more action packed, experience, I have never been able to finish the first level. Lastlight (Astra game), on the other hand, is more complex in terms of gameplay mechanics and also more balanced out of the box. The combination of collecting little points of light and adding a new capability to your ship every round was nicely executed. I gave neither model a prompt beyond the initial challenge prompt, and my intuition is that Astra may have better learned game balancing somewhere in post-training. Of course, I don't have nearly enough data to say this with any confidence, but it certainly feels that way.
 
-**Sol put more of its design into movement through a system.** A larger world, obstacle collisions, a following camera, and a minimap support a player-directed route. Its upgrade economy works while combat continues. Its adaptive score is more involved than LASTLIGHT's music loop, giving this build a distinct technical strength.
+**What excites me the most is where these games could go with a human at the wheel**. I totally get that people want to keep machines out of their creative endeavors, but if we're being honest, there are very few original ideas when it comes to general narrative beats. Nearly all stories are some retelling of a far more ancient one. While I don't want people to hand over all creative license to models, I am beyond excited about what possibilities of having such a powerful tool will do for human creative expression. 
 
-**The shared aesthetic is as interesting as the contrast.** Both selected small ships, glowing salvage, hostile darkness, and survival around a last signal. The differentiation lies more in structure and mechanics than in wildly different genre selection.
-
-These are editorial interpretations of the preserved source, not universal rankings. See the [detailed comparison and code references](docs/comparison.md), or [use the playtest scorecard](docs/playtest.md) to make your own judgment.
+See the [detailed comparison and code references](docs/comparison.md), or [use the playtest scorecard](docs/playtest.md) to make your own judgment.
 
 ## What this says about the models
 
