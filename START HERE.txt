@@ -1,0 +1,29 @@
+ONE PROMPT, TWO WORLDS
+======================
+Two complete games made for the same open-ended generation challenge.
+
+On Windows: extract the entire ZIP, then double-click PLAY BOTH.bat.
+Select 1 for LASTLIGHT or 2 for Last Light Lancer.
+
+On other desktop systems: open index.html inside either game's folder.
+No installation, assets, accounts, API keys, or internet connection needed.
+A keyboard, mouse, and modern browser are required.
+
+LASTLIGHT / GPT-6 Astra / medium reasoning
+Protect the lighthouse through five tides, then defeat the Leviathan.
+WASD: steer. Space: dash. E: shockwave. Weapons auto-fire.
+Hold left mouse to aim manually. P: pause. M: mute. F: fullscreen.
+Navigator mode on the title screen gives a gentler first run.
+
+LAST LIGHT LANCER / GPT-5.6 Sol / high reasoning
+Recover six signal cores, then hold the starting extraction ring for 10 seconds.
+WASD: move. Mouse: aim. Hold left mouse: fire. Space: dash.
+Hold E near a core. 1/2/3: buy cannon/engine/shield upgrades.
+P: pause. M: music. T: audio test.
+
+Model settings are attributed by the challenge owner. The games are preserved
+as supplied for this comparison. The exhibit is an independent case study,
+not an official OpenAI benchmark or a controlled model ranking.
+
+Read the comparison and source:
+https://github.com/bitofastickler/one-prompt-two-worlds

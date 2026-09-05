@@ -1,0 +1,53 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Last Light Lancer</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <canvas id="game" aria-label="Last Light Lancer game canvas"></canvas>
+  <div id="hud">
+    <div class="top-left">
+      <div class="brand">Last Light Lancer</div>
+      <div id="objective">Press Enter to launch</div>
+    </div>
+    <div class="top-right">
+      <div id="runStats"></div>
+      <div id="upgradeHint"></div>
+      <div id="audioStatus">Audio waits for launch</div>
+    </div>
+    <div class="bottom-left">
+      <div class="bar"><span>Hull</span><i id="hullBar"></i></div>
+      <div class="bar shield"><span>Shield</span><i id="shieldBar"></i></div>
+    </div>
+    <div class="bottom-right">
+      <div id="toast"></div>
+    </div>
+    <div id="overlay">
+      <div class="panel">
+        <h1>Last Light Lancer</h1>
+        <p>
+          A courier ship wakes in the debris field around a dead relay. Recover
+          six signal cores, survive the extraction burn, and get out before the
+          static learns your name.
+        </p>
+        <div class="controls">
+          <span>WASD move</span>
+          <span>Mouse aim</span>
+          <span>Click fire</span>
+          <span>Space dash</span>
+          <span>E attune</span>
+          <span>1-3 upgrades</span>
+          <span>P pause</span>
+          <span>M music</span>
+          <span>T test audio</span>
+        </div>
+        <button id="startButton">Launch Run</button>
+      </div>
+    </div>
+  </div>
+  <script src="game.js"></script>
+</body>
+</html>

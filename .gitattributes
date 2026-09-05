@@ -1,0 +1,10 @@
+# Preserve captured game bytes, including original launcher line endings.
+games/** -text
+downloads/*.zip binary
+assets/*.png binary
+*.md text eol=lf
+*.py text eol=lf
+*.cjs text eol=lf
+*.json text eol=lf
+*.svg text eol=lf
+*.yml text eol=lf

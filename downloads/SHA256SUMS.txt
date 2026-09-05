@@ -1,0 +1,3 @@
+5fb68cab87661d8fc04560f24cb94fdb27e0a0039d093c83e4eda4ef4a8ae86c  both-games.zip
+dd8fe403e558ad305def21df2c9f15ce0655a8bcf8e49899be7cf13ce2a76407  last-light-lancer.zip
+4401294ccb50d60dad4e403e8ee2dbbdd0dea9a0487f225c85dc794b2d78df4d  lastlight.zip

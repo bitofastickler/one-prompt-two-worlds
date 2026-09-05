@@ -1,0 +1,78 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-09-05",
+  "games": [
+    {
+      "slug": "lastlight",
+      "title": "LASTLIGHT",
+      "model": "gpt-6-astra",
+      "reasoning": "medium",
+      "attribution": "challenge owner",
+      "source_folder_label": "lastlight",
+      "source_git_commit": null,
+      "files": [
+        {
+          "path": "games/lastlight/game.js",
+          "bytes": 21708,
+          "sha256": "39c75696cd1be31b61209b114021fd33794d9c5b44dd380d5a6995a42a9ec437"
+        },
+        {
+          "path": "games/lastlight/index.html",
+          "bytes": 4398,
+          "sha256": "e91252f139fe00ab21a4ecb8190f4d237d197e4659353320d71ffd55bf1799c0"
+        },
+        {
+          "path": "games/lastlight/PLAY LASTLIGHT.bat",
+          "bytes": 73,
+          "sha256": "fd53f0bbc255186a46cc6786bb329053cf07abde9869d80c276a94cf17e5ef7d"
+        },
+        {
+          "path": "games/lastlight/README.txt",
+          "bytes": 1154,
+          "sha256": "33352bf0262c366ee524ef4f67051e0db3dcaab19fe575c518e6fa99481c1954"
+        },
+        {
+          "path": "games/lastlight/test-game.cjs",
+          "bytes": 2777,
+          "sha256": "01f0cad7a5e4c7e348f73ab3738e1765c8917a0e2ab227488e4b2b09988103ec"
+        }
+      ]
+    },
+    {
+      "slug": "last-light-lancer",
+      "title": "Last Light Lancer",
+      "model": "gpt-5.6-sol",
+      "reasoning": "high",
+      "attribution": "challenge owner",
+      "source_folder_label": "game-generation-test-5.6sol",
+      "source_git_commit": null,
+      "files": [
+        {
+          "path": "games/last-light-lancer/game.js",
+          "bytes": 35949,
+          "sha256": "ed47dfd4ffd34c3be6f3c3de42d79c665aca2ba30ee3cbca7d6e4060fe55c8af"
+        },
+        {
+          "path": "games/last-light-lancer/index.html",
+          "bytes": 1667,
+          "sha256": "bd415284759768f2afcd15ad906f45a8de295bf075eff232f70cced7a91addf0"
+        },
+        {
+          "path": "games/last-light-lancer/README.md",
+          "bytes": 631,
+          "sha256": "e2c95fec782ef93b551778ea2326c397e921bbbdf7006879fd2ca7d3a1256041"
+        },
+        {
+          "path": "games/last-light-lancer/run-game.bat",
+          "bytes": 69,
+          "sha256": "7d1223735316e5da7e29ad0525333b3a1010822b8739c1563fb4891bd8487c28"
+        },
+        {
+          "path": "games/last-light-lancer/styles.css",
+          "bytes": 3417,
+          "sha256": "91391bc68e4b412e0d605843417fab8e81d4062eb3c992e55c8851ae0f2a2b5b"
+        }
+      ]
+    }
+  ]
+}
